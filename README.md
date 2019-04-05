@@ -66,4 +66,4 @@ Per the x-callback-url standard, the following additional parameters can be prov
 
 ---
 
-*BRAVIA is a trademark of Sony Visual Products Inc.*
+*\* BRAVIA is a trademark of Sony Visual Products Inc.*
