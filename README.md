@@ -83,6 +83,12 @@ Per the x-callback-url standard, the following additional parameters can be prov
 ## Working with the Shortcuts App
 
 
+## Privacy Policy
+
+We don’t store any your data, period.
+
+What happens on your device stays on your device.
+
 ---
 
 *\* BRAVIA is a trademark of Sony Visual Products Inc.*
