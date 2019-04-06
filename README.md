@@ -72,6 +72,8 @@ bravia-remote://x-callback-url/send?code=...&repeat=...
 
 The following parameters can be provided:
 
+- `name`
+
 - `code`
 
 - `repeat`
@@ -82,8 +84,7 @@ Per the x-callback-url standard, the following additional parameters can be prov
 
 - `x-error` (optional): A URL that opens when the interaction fails because an error occurred.
 
-
-## Working with Shortcuts App
+## Working with the Shortcuts App
 
 
 ---
