@@ -4,19 +4,19 @@ Frist of all, make sure your TV and iPhone are in the same WiFi network.
 
 ### Remote Start
 
-**On Your TV**
-
 If you'd like `Remote for BRAVIA TV` to control the power / sleep of your TV. You need to turn the `Remote Start` option ON.
+
+**On Your TV**
 
 - Set Remote start to ON 
   
   [Home] Settings -> Network -> Remote Start
   
-### Find Out Your TV's Host Name / IP Address
-
-**On Your TV**
+### Check Your TV's Host Name / IP Address
 
 For the Remote app to find your TV, you need to tell it the host name, typcally the IP address of your TV.
+
+**On Your TV**
 
 - Check IP Address of BRAVIA TV
 
@@ -26,13 +26,13 @@ For the Remote app to find your TV, you need to tell it the host name, typcally 
 
 **In the App**
 
-Open `Settings` (The upper left icon on the app's main screen)
-
 Fill your TV's `IP address` to the `HOST NAME / IP` field.
 
 ### Setup a Pre-Shared Key (PSK)
 
 For the Remote app to securely communicate with your TV. You need to setup a Pre-Shared Key (a.k.a PSK).
+
+**On Your TV**
 
 - Change Authentication to Normal and Pre-Shared Key 
     
@@ -45,8 +45,6 @@ For the Remote app to securely communicate with your TV. You need to setup a Pre
 *If you cannot find the options in your `Settings` menu. You may need to enable [Pro settings mode](https://pro-bravia.sony.net/guides/mode/index.html).*
 
 **In the App**
-
-Open `Settings` (The upper left icon on the app's main screen)
 
 Fill your TV's `Pre-Shared Key` to the `PRE-SHARED KEY` field.
 
