@@ -2,6 +2,8 @@
 
 ## Setup
 
+Frist of all, make sure your TV and iPhone are in the same WiFi network.
+
 ### Remote Start
 
 **On Your TV**
