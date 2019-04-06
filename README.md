@@ -1,5 +1,3 @@
-# BRAVIA TV Remote Guide
-
 ## Setup
 
 Frist of all, make sure your TV and iPhone are in the same WiFi network.
