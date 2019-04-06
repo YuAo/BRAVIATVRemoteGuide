@@ -1,16 +1,20 @@
 # BRAVIA TV Remote Guide
 
-## Setup Your TV
+## Setup
 
 ### Remote Start
+
+**On Your TV**
 
 If you'd like `Remote for BRAVIA TV` to control the power / sleep of your TV. You need to turn the `Remote Start` option ON.
 
 - Set Remote start to ON 
   
   [Home] Settings -> Network -> Remote Start
-
+  
 ### Find Out Your TV's Host Name / IP Address
+
+**On Your TV**
 
 For the Remote app to find your TV, you need to tell it the host name, typcally the IP address of your TV.
 
@@ -19,6 +23,12 @@ For the Remote app to find your TV, you need to tell it the host name, typcally 
   [HOME] Settings > Network > Advanced settings > Network status > IP address
 
 *If you cannot find the options in your `Settings` menu. You may need to enable [Pro settings mode](https://pro-bravia.sony.net/guides/mode/index.html).*
+
+**In the App**
+
+Open `Settings` (The upper left icon on the app's main screen)
+
+Fill your TV's `IP address` to the `HOST NAME / IP` field.
 
 ### Setup a Pre-Shared Key (PSK)
 
@@ -34,9 +44,19 @@ For the Remote app to securely communicate with your TV. You need to setup a Pre
 
 *If you cannot find the options in your `Settings` menu. You may need to enable [Pro settings mode](https://pro-bravia.sony.net/guides/mode/index.html).*
 
-## Setup the App
+**In the App**
 
+Open `Settings` (The upper left icon on the app's main screen)
 
+Fill your TV's `Pre-Shared Key` to the `PRE-SHARED KEY` field.
+
+### Test Your Setup
+
+**In the App**
+
+Open `Settings` (The upper left icon on the app's main screen)
+
+Tap the `Toggle TV Power` button on the bottom of the list.
 
 ## x-callback-url
 
