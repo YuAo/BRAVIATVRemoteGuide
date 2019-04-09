@@ -38,9 +38,13 @@ For the Remote app to securely communicate with your TV. You need to setup a Pre
     
   [Home] Settings > Network > IP Control > Authentication
 
+  ![bravia-settings-ipcontrol-authentication-normalandpresharedkey](Assets/bravia-settings-ipcontrol-authentication-normalandpresharedkey.png)
+
 - Enter a Pre-Shared Key
     
   [Home] Settings > Network > IP Control > Pre-Shared Key
+
+  ![bravia-settings-ipcontrol-authentication-normalandpresharedkey](Assets/bravia-settings-ipcontrol-authentication-presharedkey.png)
 
 *If you cannot find the options in your `Settings` menu. You may need to enable [Pro settings mode](https://pro-bravia.sony.net/guides/mode/index.html).*
 
