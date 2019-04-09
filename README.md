@@ -68,11 +68,13 @@ bravia-remote://x-callback-url/send?code=...&repeat=...
 
 The following parameters can be provided:
 
-- `name`
+- `name`: Name of the IR command you'd like to send.
 
-- `code`
+- `code`: Code of the IR command you'd like to send.
 
-- `repeat`
+- `repeat`: How many times you'd like to send the command.
+
+A table of IR code and name can be found here: https://pro-bravia.sony.net/develop/integrate/ircc-ip/ircc-codes/index.html
 
 Per the x-callback-url standard, the following additional parameters can be provided:
 
@@ -80,8 +82,27 @@ Per the x-callback-url standard, the following additional parameters can be prov
 
 - `x-error` (optional): A URL that opens when the interaction fails because an error occurred.
 
+Here are some examples:
+
+`bravia-remote://x-callback-url/send?name=power`
+
+`bravia-remote://x-callback-url/send?name=volumeup`
+
+`bravia-remote://x-callback-url/send?name=home`
+
 ## Working with the Shortcuts App
 
+You can use the "X-Callback URL" action in the "Shortcuts" to control your TV. 
+
+Here are some examples:
+
+[TV Power](https://www.icloud.com/shortcuts/c6b92f40c7e54fa9a9c37ca2a6690b17)
+
+[Volume Up](https://www.icloud.com/shortcuts/580a1266978e4caa96a3c3f9027b6d89)
+
+[Volume Down](https://www.icloud.com/shortcuts/e7322f800ce5424ba90c04f75befe024)
+
+[Switch to HDMI 1](https://www.icloud.com/shortcuts/cfb22992f3d64da8a6b17b76232e485b)
 
 ## Privacy Policy
 
