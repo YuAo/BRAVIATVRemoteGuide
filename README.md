@@ -10,7 +10,7 @@ If you'd like `Remote for BRAVIA TV` to control the power / sleep of your TV. Yo
 
 - Set Remote start to ON 
   
-  [Home] Settings -> Network -> Remote Start
+  [Home] Settings > Network > Remote Start
   
 ### Check Your TV's Host Name / IP Address
 
@@ -36,11 +36,11 @@ For the Remote app to securely communicate with your TV. You need to setup a Pre
 
 - Change Authentication to Normal and Pre-Shared Key 
     
-  [Home] Settings -> Network -> IP Control -> Authentication
+  [Home] Settings > Network > IP Control > Authentication
 
 - Enter a Pre-Shared Key
     
-  [Home] Settings -> Network -> IP control -> Pre-Shared Key
+  [Home] Settings > Network > IP Control > Pre-Shared Key
 
 *If you cannot find the options in your `Settings` menu. You may need to enable [Pro settings mode](https://pro-bravia.sony.net/guides/mode/index.html).*
 
