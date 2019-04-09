@@ -18,7 +18,7 @@ For the Remote app to find your TV, you need to tell it the host name, typcally 
 
 **On Your TV**
 
-- Check IP Address of BRAVIA TV
+- Check IP Address of your BRAVIA TV
 
   [HOME] Settings > Network > Advanced settings > Network status > IP address
 
